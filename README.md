@@ -39,5 +39,5 @@ Contributions to this project are welcome. If you have any suggestions, improvem
 
 If you have any questions or suggestions, feel free to reach out:
 
-- Email: [saidjon.ibn.usmon@gmail.com](mailto:shokirovdiyorbek629@gmail.com)
+- Email: [shokirovdiyorbek629@gmail.com](mailto:shokirovdiyorbek629@gmail.com)
 
